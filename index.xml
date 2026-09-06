@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>BeiMei Dentistry</title>
-    <link>http://localhost:1313/</link>
+    <link>https://beimei.github.io/</link>
     <description>Recent content on BeiMei Dentistry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Sep 2026 16:58:45 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://beimei.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>贝美齿科</title>
-      <link>http://localhost:1313/posts/about/</link>
+      <link>https://beimei.github.io/posts/about/</link>
       <pubDate>Sat, 05 Sep 2026 16:58:45 +0800</pubDate>
-      <guid>http://localhost:1313/posts/about/</guid>
+      <guid>https://beimei.github.io/posts/about/</guid>
       <description>&lt;h2 id=&#34;关于贝美齿科&#34;&gt;关于贝美齿科&lt;/h2&gt;
 &lt;p&gt;贝美齿科创立于 2013 年，是经国家卫生部门批准设立、按照国内先进医疗标准建设与运营的现代化口腔医疗连锁机构。&lt;/p&gt;
 &lt;p&gt;十余年来，贝美始终秉持&amp;quot;精良、精密&amp;quot;的执业准则，将规范的医疗管理理念与扎实的临床技术相结合，把每一位患者的口腔健康当作一项长期工程来经营。目前在西安航天、曲江两大区域设有分院，立足社区、服务家庭，让周边居民在家门口就能享受到体系化、连续性的口腔医疗服务。&lt;/p&gt;
